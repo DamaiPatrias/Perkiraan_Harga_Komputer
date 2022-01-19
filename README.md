@@ -1,5 +1,6 @@
 # Perkiraan_Harga_Komputer
-Final Project Pemrograman Web Lanjut \n
+Final Project Pemrograman Web Lanjut
+
 Nama Anggota Kelompok : 
 - 19.11.2606 Ade Prasetyo
 - 19.11.2635 Bayu Setiawan
